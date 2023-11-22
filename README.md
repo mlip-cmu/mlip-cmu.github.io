@@ -1,12 +1,18 @@
 # Machine Learning in Production / AI Engineering (17-445/17-645/17-745/11-695)
 
-*CMU course and corresponding book that covers how to build, deploy, assure, and maintain products with machine-learned models. Includes the entire lifecycle from a prototype ML model to an entire system. Covers also **responsible AI** (safety, security, fairness, explainability) and **MLOps**.* 
+
+
+<span style="font-weight:bold; background-color:rgb(46, 125, 50);    transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms, box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms, border-color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms, color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms; color:white; box-shadow: rgba(0, 0, 0, 0.2) 0px 3px 1px -2px, rgba(0, 0, 0, 0.14) 0px 2px 2px 0px, rgba(0, 0, 0, 0.12) 0px 1px 5px 0px; padding: 6px 16px;border-radius:4px ; text-decoration: none;"><a href="https://mlip-cmu.github.io/s2024/" style="color:white">Spring 2024 website</a></span>
+
+
+
+*CMU course and corresponding book that covers how to build, deploy, assure, and maintain software products with machine-learned models. Includes the entire lifecycle from a prototype ML model to an entire system deployed in production. Covers also **responsible AI** (safety, security, fairness, explainability) and **MLOps**.* 
 
 ***
 
 ![Course topics overview](overview.svg "Course topics overview")
 
-In 2023, it will be offered at least in the spring. In all offerings since 2021, the class does not have formal prerequisites, but expects some familiarity with machine learning concepts and basic programming skills. 
+In 2024, the course will be offered in the spring and probably also in the fall. In all offerings since 2021, the class does not have formal prerequisites, but expects some familiarity with machine learning concepts and basic programming skills. 
 
 See the specific offering of the course you are interested in:
 
@@ -17,9 +23,9 @@ See the specific offering of the course you are interested in:
 * Spring 2022: [S2022 website](https://ckaestne.github.io/seai/S2022) and [S2022 GitHub branch](https://github.com/ckaestne/seai/tree/S2022)
 * Fall 2022: [F2022 website](https://ckaestne.github.io/seai/F2022) and [F2022 GitHub branch](https://github.com/ckaestne/seai/tree/F2022)
 * Spring 2023: [S2023 website](https://mlip-cmu.github.io/s2023/) and [S2023 on GitHub](https://github.com/mlip-cmu/s2023)
+* Spring 2024: [S2024 website](https://mlip-cmu.github.io/s2024/) and [S2024 on GitHub](https://github.com/mlip-cmu/s2024)
 
-For researchers, educators, or others interested in this topic, we share all course material, including slides and assignments, under a creative commons license on GitHub (see above) and have recently completed a [textbook](https://ckaestne.medium.com/machine-learning-in-production-book-overview-63be62393581) complementing the course. We also
-published an article describing the rationale and the design of the first iteration of the course: [Teaching Software Engineering for AI-Enabled Systems](https://arxiv.org/abs/2001.06691). Video recordings of the Summer 2020 offering, now slightly dated, are online on the [course page](https://ckaestne.github.io/seai/S2020/#course-content). We would be happy to see this course or a similar version taught at other universities.  See also an [annotated bibliography](https://github.com/ckaestne/seaibib) on the topic.
+For researchers, educators, or others interested in this topic, we share all course material, including slides and assignments, under a creative commons license on GitHub (see above) and have recently completed a [textbook](https://ckaestne.medium.com/machine-learning-in-production-book-overview-63be62393581) complementing the course, soon to be published by MIT Press. A while ago, we also published an article describing the rationale and the design of the first iteration of the course: [Teaching Software Engineering for AI-Enabled Systems](https://arxiv.org/abs/2001.06691). Video recordings of the Summer 2020 offering, now somewhat dated, are online on the [course page](https://ckaestne.github.io/seai/S2020/#course-content). We would be happy to see this course or a similar version taught at other universities.  See also an [annotated bibliography](https://github.com/ckaestne/seaibib) on the topic.
 
 
 ## Course content
@@ -324,10 +330,13 @@ See the web pages for the specific semester for details.
 
 Students taking the PhD version of this class (17-745) will replace two individual assignments with a research project instead, resulting in a draft of a paper of at least workshop quality.
 
-## Related Courses
+## Related Courses at CMU
 
 * 17-649 Artificial Intelligence for Software Engineering: This course focuses on how AI techniques can be used to build better software engineering tools and goes into more depth with regard to specific AI techniques, whereas we focus on how software engineering techniques can be used to build AI-enabled systems. Our application scenarios are typical web-based systems for end users, rather than tools for software developers.
 * [05-318 Human-AI Interaction](http://www.humanaiclass.org/): Focuses on the HCI angle on designing AI-enabled products. Overlaps in some coverage on fairness, covers in much more detail user interface design and how to involving humans in ML-supported decisions, whereas this course focuses more on architecture design, requirements engineering, and deploying systems in production. Both courses are complementary.
 * [17-646 DevOps: Modern Deployment](https://mse.isri.cmu.edu/applicants/course-offerings.html), [17-647 Engineering Data Intensive Scalable Systems](https://mse.isri.cmu.edu/applicants/course-offerings.html), and similar: These course cover techniques to build scalable, reactive, and reliable systems in depth. We will survey DevOps, and big data systems in the context of designing and deploying systems, but will not explore them in as much detail as a dedicated course can. We will look at MLOps as a ML-specific variant of DevOps.
-* [10-601 Machine Learning](https://www.cmu.edu/mits/curriculum/core/10-601.html), [15-381 Artificial Intelligence: Representation and Problem Solving](https://www.cs.cmu.edu/~15381-f17/), [05-834  Applied Machine Learning](https://www.cmu.edu/mits/curriculum/core/05-834.html), [95-865 Unstructured Data Analytics](https://www.andrew.cmu.edu/user/georgech/95-865/), and many others: CMU offers many course that teach how machine learning and artificial intelligence techniques work internally or how to apply them to specific problems (including feature engineering and model evaluation), often on static data sets. We assume a basic understanding of such techniques and processes (see prerequisites) but focus on the engineering process for production ML systems.
+* [10-601 Machine Learning](https://www.cmu.edu/mits/curriculum/core/10-601.html), [15-381 Artificial Intelligence: Representation and Problem Solving](https://www.cs.cmu.edu/~15381-f17/), [05-834  Applied Machine Learning](https://www.cmu.edu/mits/curriculum/core/05-834.html), [95-865 Unstructured Data Analytics](https://www.andrew.cmu.edu/user/georgech/95-865/), [10-718: Machine Learning in Practice](https://github.com/dssg/MLinPractice), and many others: CMU offers many course that teach how machine learning and artificial intelligence techniques work internally or how to apply them to specific problems (including feature engineering and model evaluation), often on static data sets. We assume a basic understanding of such techniques and processes (see prerequisites) but focus on the engineering process for production ML systems.
+* 17-691 Machine Learning in Practice: Applied machine learning with an focus on deployment and monitoring of models.
+* [15-884 Machine Learning Systems](https://catalyst.cs.cmu.edu/15-884-mlsys-sp21/), [10-714 Deep Learning Systems](https://dlsyscourse.org): Courses that focus on the systems aspect of building ML libraries, such as distributed learning and using hardware acceleration. 
+* [17-630 Prompt Engineering](https://www.cs.cmu.edu/~breaux/prompting/): Course focused specifically on prompt engineering for large language models.
 * [10-613 Machine Learning, Ethics and Society](https://www.cs.cmu.edu/~hheidari/mles-fall-21.html), [16-735 Ethics and Robotics](), [05-899 Fairness, Accountability, Transparency, & Ethics (FATE) in Sociotechnical Systems], and others dive much deeper into ethical issues and fairness in machine learning, in some cases diving deeper into statistical notions or policy. We will cover these topics in a two-week segment among many others. 
