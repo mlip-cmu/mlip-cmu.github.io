@@ -3,6 +3,8 @@
 
 Find resources related to teaching and research on how to build, deploy, assure, and maintain software products with machine-learned models. These cover the entire lifecycle from a prototype ML model to an entire system deployed in production, not just models or notebooks. Covers also the **responsible ML engineering** of such systems (safety, security, fairness, transparency) and **MLOps**.* 
 
+All materials (book, slides, assignments, bibliography) are released under creative commons licenses. We hope that this fosters teaching and research on these topics.
+
 
 ## The Course
 
