@@ -5,6 +5,7 @@ Find resources related to teaching and research on how to build, deploy, assure,
 
 All materials (book, slides, assignments, bibliography) are released under creative commons licenses. We hope that this fosters teaching and research on these topics.
 
+Maintained by [Christian Kaestner](https://www.cs.cmu.edu/~ckaestne/).
 
 ## The Course
 
