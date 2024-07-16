@@ -15,6 +15,7 @@ Maintained by [Christian Kaestner](https://www.cs.cmu.edu/~ckaestne/).
 
 We teach a 12-unit course at Carnegie Mellon University on this topic, open to undergraduates and graduate students. We expect some minimal machine learning background and some programming skills, but no prior software engineering research. The course is always offered in the spring semester and often also in the fall.
 
+* Fall 2024: [F2024 website](https://mlip-cmu.github.io/f2024/) and [F2024 on GitHub](https://github.com/mlip-cmu/f2024)
 * Spring 2024: [S2024 website](https://mlip-cmu.github.io/s2024/) and [S2024 on GitHub](https://github.com/mlip-cmu/s2024)
 * Spring 2023: [S2023 website](https://mlip-cmu.github.io/s2023/) and [S2023 on GitHub](https://github.com/mlip-cmu/s2023)
 * Fall 2022: [F2022 website](https://ckaestne.github.io/seai/F2022) and [F2022 GitHub branch](https://github.com/ckaestne/seai/tree/F2022)
