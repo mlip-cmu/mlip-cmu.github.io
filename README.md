@@ -10,11 +10,12 @@ Maintained by [Christian Kaestner](https://www.cs.cmu.edu/~ckaestne/).
 ## The Course
 
 
-<span style="font-weight:bold; background-color:rgb(46, 125, 50);    transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms, box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms, border-color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms, color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms; color:white; box-shadow: rgba(0, 0, 0, 0.2) 0px 3px 1px -2px, rgba(0, 0, 0, 0.14) 0px 2px 2px 0px, rgba(0, 0, 0, 0.12) 0px 1px 5px 0px; padding: 6px 16px;border-radius:4px ; text-decoration: none;"><a href="https://mlip-cmu.github.io/f2024/" style="color:white">Fall 2024 website</a></span>
+<span style="font-weight:bold; background-color:rgb(46, 125, 50);    transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms, box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms, border-color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms, color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms; color:white; box-shadow: rgba(0, 0, 0, 0.2) 0px 3px 1px -2px, rgba(0, 0, 0, 0.14) 0px 2px 2px 0px, rgba(0, 0, 0, 0.12) 0px 1px 5px 0px; padding: 6px 16px;border-radius:4px ; text-decoration: none;"><a href="https://mlip-cmu.github.io/s2025/" style="color:white">Spring 2025 website</a></span>
 
 
 We teach a 12-unit course at Carnegie Mellon University on this topic, open to undergraduates and graduate students. We expect some minimal machine learning background and some programming skills, but no prior software engineering research. The course is always offered in the spring semester and often also in the fall.
 
+* Spring 2025: [S2025 website](https://mlip-cmu.github.io/s2025/) and [S2025 on GitHub](https://github.com/mlip-cmu/s2025)
 * Fall 2024: [F2024 website](https://mlip-cmu.github.io/f2024/) and [F2024 on GitHub](https://github.com/mlip-cmu/f2024)
 * Spring 2024: [S2024 website](https://mlip-cmu.github.io/s2024/) and [S2024 on GitHub](https://github.com/mlip-cmu/s2024)
 * Spring 2023: [S2023 website](https://mlip-cmu.github.io/s2023/) and [S2023 on GitHub](https://github.com/mlip-cmu/s2023)
