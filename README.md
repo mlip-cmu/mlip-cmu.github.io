@@ -7,6 +7,14 @@ All materials (book, slides, assignments, bibliography) are released under creat
 
 Maintained by [Christian Kaestner](https://www.cs.cmu.edu/~ckaestne/).
 
+
+## The Pitch
+
+The following talk motivates the entire endeavour, explains the need to focus on engineering the entire system, not just the model, and runs through what this means from the lens of quality assurance (model testing to system testing):
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/G-N1iBYYXVo" frameborder="0" allowfullscreen="true"></iframe>
+
+
 ## The Course
 
 
