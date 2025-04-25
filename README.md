@@ -1,7 +1,7 @@
 # Machine Learning in Production @ CMU
 
 
-Find resources related to teaching and research on how to build, deploy, assure, and maintain software products with machine-learned models. These cover the entire lifecycle from a prototype ML model to an entire system deployed in production, not just models or notebooks. Covers also the **responsible ML engineering** of such systems (safety, security, fairness, transparency) and **MLOps**.* 
+Find resources related to teaching and research on how to build, deploy, assure, and maintain **software products with machine-learned models**. For example, how to integrate a voice-to-text model and an LLM into a video conferencing product to create automated meeting summaries. We cover the entire lifecycle from a prototype ML model to an entire product deployed in the real world, not just models or notebooks. Covers also the **responsible ML engineering** of such systems (safety, security, fairness, transparency) and **MLOps**. 
 
 All materials (book, slides, assignments, bibliography) are released under creative commons licenses. We hope that this fosters teaching and research on these topics.
 
@@ -10,18 +10,28 @@ Maintained by [Christian Kaestner](https://www.cs.cmu.edu/~ckaestne/).
 
 ## The Pitch
 
-The following talk motivates the entire endeavour, explains the need to focus on engineering the entire system, not just the model, and runs through what this means from the lens of quality assurance (model testing to system testing):
+The following talk motivates the entire endeavor, explains the need to focus on engineering the entire system, not just the model, and runs through what this means from the lens of quality assurance (model testing to system testing):
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/G-N1iBYYXVo" frameborder="0" allowfullscreen="true"></iframe>
 
+## The Book
+
+<span style="font-weight:bold; background-color:rgb(46, 125, 50);    transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms, box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms, border-color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms, color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms; color:white; box-shadow: rgba(0, 0, 0, 0.2) 0px 3px 1px -2px, rgba(0, 0, 0, 0.14) 0px 2px 2px 0px, rgba(0, 0, 0, 0.12) 0px 1px 5px 0px; padding: 6px 16px;border-radius:4px ; text-decoration: none;"><a href="https://mitpress.mit.edu/9780262049726/machine-learning-in-production/" style="color:white">Print & Ebook version</a></span> <span style="font-weight:bold; background-color:rgb(46, 125, 50);    transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms, box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms, border-color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms, color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms; color:white; box-shadow: rgba(0, 0, 0, 0.2) 0px 3px 1px -2px, rgba(0, 0, 0, 0.14) 0px 2px 2px 0px, rgba(0, 0, 0, 0.12) 0px 1px 5px 0px; padding: 6px 16px;border-radius:4px ; text-decoration: none;"><a href="https://mlip-cmu.github.io/book/" style="color:white">Online version</a></span>
+
+
+A book has been published MIT Press as open access. All author proceeds are donated to [Evidence Action](https://evidenceaction.org/). The complete book is available online under a creative common license [here](https://mlip-cmu.github.io/book/).
+
+
+![Book cover](book.jpg "Book cover")
 
 ## The Course
 
 
 <span style="font-weight:bold; background-color:rgb(46, 125, 50);    transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms, box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms, border-color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms, color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms; color:white; box-shadow: rgba(0, 0, 0, 0.2) 0px 3px 1px -2px, rgba(0, 0, 0, 0.14) 0px 2px 2px 0px, rgba(0, 0, 0, 0.12) 0px 1px 5px 0px; padding: 6px 16px;border-radius:4px ; text-decoration: none;"><a href="https://mlip-cmu.github.io/s2025/" style="color:white">Spring 2025 website</a></span>
 
-
 We teach a 12-unit course at Carnegie Mellon University on this topic, open to undergraduates and graduate students. We expect some minimal machine learning background and some programming skills, but no prior software engineering research. The course is always offered in the spring semester and often also in the fall.
+
+![Course topics overview](overview.svg "Course topics overview")
 
 * Spring 2025: [S2025 website](https://mlip-cmu.github.io/s2025/) and [S2025 on GitHub](https://github.com/mlip-cmu/s2025)
 * Fall 2024: [F2024 website](https://mlip-cmu.github.io/f2024/) and [F2024 on GitHub](https://github.com/mlip-cmu/f2024)
@@ -36,18 +46,6 @@ We teach a 12-unit course at Carnegie Mellon University on this topic, open to u
 
 
 For a description of topics covered and course structure, see [learning goals](https://github.com/mlip-cmu/s2024/blob/main/learning_goals.md).
-
-
-## The Book
-
-
-<span style="font-weight:bold; background-color:rgb(46, 125, 50);    transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms, box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms, border-color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms, color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms; color:white; box-shadow: rgba(0, 0, 0, 0.2) 0px 3px 1px -2px, rgba(0, 0, 0, 0.14) 0px 2px 2px 0px, rgba(0, 0, 0, 0.12) 0px 1px 5px 0px; padding: 6px 16px;border-radius:4px ; text-decoration: none;"><a href="https://mlip-cmu.github.io/book/" style="color:white">Online version</a></span>
-
-
-A book on these topics will be published by MIT Press later this year under a creative commons license. The complete online version of the book is available [here](https://mlip-cmu.github.io/book/).
-
-
-![Course topics overview](overview.svg "Course topics overview")
 
 
 
