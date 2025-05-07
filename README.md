@@ -63,7 +63,7 @@ An (opinionated) annotated bibliography of academic papers in this space, coveri
 </a></span>
 
 
-A curated set of open source products that use machine learning. These are all end-user products that incorporate machine learning models, not libraries, research prototypes, or notebooks. We hope that this lists facilitates research on building products beyond the model-centric view of analyzing ML components: [https://github.com/mlip-cmu/awesome-ml-products](https://github.com/mlip-cmu/awesome-ml-products).
+A curated set of open source products that use machine learning. These are all end-user products that incorporate machine learning models, not libraries, research prototypes, or notebooks. We hope that this lists facilitates research on building products beyond the model-centric view of analyzing ML components: [https://github.com/mlip-cmu/awesome-ml-products](https://github.com/mlip-cmu/awesome-ml-products). For more applications also see this list of [Open Source Android Apps with LLMs](https://github.com/kimberlyhau/LLM-enabledAndroidAppsReplicationPackage).
 
 
 ## Related Courses at CMU
