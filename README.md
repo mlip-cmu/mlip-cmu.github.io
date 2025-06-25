@@ -33,6 +33,7 @@ We teach a 12-unit course at Carnegie Mellon University on this topic, open to u
 
 ![Course topics overview](overview.svg "Course topics overview")
 
+* Fall 2025: [F2025 website](https://mlip-cmu.github.io/f2025/) and [F2025 on GitHub](https://github.com/mlip-cmu/f2025)
 * Spring 2025: [S2025 website](https://mlip-cmu.github.io/s2025/) and [S2025 on GitHub](https://github.com/mlip-cmu/s2025)
 * Fall 2024: [F2024 website](https://mlip-cmu.github.io/f2024/) and [F2024 on GitHub](https://github.com/mlip-cmu/f2024)
 * Spring 2024: [S2024 website](https://mlip-cmu.github.io/s2024/) and [S2024 on GitHub](https://github.com/mlip-cmu/s2024)
