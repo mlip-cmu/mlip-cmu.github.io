@@ -33,6 +33,8 @@ We teach a 12-unit course at Carnegie Mellon University on this topic, open to u
 
 ![Course topics overview](overview.svg "Course topics overview")
 
+* Spring 2026: [S2026 website](https://mlip-cmu.github.io/s2026/) and [S2026 on GitHub](https://github.com/mlip-cmu/s2026)
+* Fall 2025: [F2025 website](https://mlip-cmu.github.io/f2025/) and [F2025 on GitHub](https://github.com/mlip-cmu/f2025)
 * Spring 2025: [S2025 website](https://mlip-cmu.github.io/s2025/) and [S2025 on GitHub](https://github.com/mlip-cmu/s2025)
 * Fall 2024: [F2024 website](https://mlip-cmu.github.io/f2024/) and [F2024 on GitHub](https://github.com/mlip-cmu/f2024)
 * Spring 2024: [S2024 website](https://mlip-cmu.github.io/s2024/) and [S2024 on GitHub](https://github.com/mlip-cmu/s2024)
@@ -63,7 +65,7 @@ An (opinionated) annotated bibliography of academic papers in this space, coveri
 </a></span>
 
 
-A curated set of open source products that use machine learning. These are all end-user products that incorporate machine learning models, not libraries, research prototypes, or notebooks. We hope that this lists facilitates research on building products beyond the model-centric view of analyzing ML components: [https://github.com/mlip-cmu/awesome-ml-products](https://github.com/mlip-cmu/awesome-ml-products).
+A curated set of open source products that use machine learning. These are all end-user products that incorporate machine learning models, not libraries, research prototypes, or notebooks. We hope that this lists facilitates research on building products beyond the model-centric view of analyzing ML components: [https://github.com/mlip-cmu/awesome-ml-products](https://github.com/mlip-cmu/awesome-ml-products). For more applications also see this list of [Open Source Android Apps with LLMs](https://github.com/kimberlyhau/LLM-enabledAndroidAppsReplicationPackage).
 
 
 ## Related Courses at CMU
