@@ -1,5 +1,6 @@
 # Machine Learning in Production @ CMU
 
+Shortcuts: <span style="font-weight:bold; background-color:rgb(46, 125, 50);    transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms, box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms, border-color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms, color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms; color:white; box-shadow: rgba(0, 0, 0, 0.2) 0px 3px 1px -2px, rgba(0, 0, 0, 0.14) 0px 2px 2px 0px, rgba(0, 0, 0, 0.12) 0px 1px 5px 0px; padding: 6px 16px;border-radius:4px ; text-decoration: none;"><a href="https://mlip-cmu.github.io/s2026/" style="color:white">The Course (Spring 2026)</a></span> <span style="font-weight:bold; background-color:rgb(46, 125, 50);    transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms, box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms, border-color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms, color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms; color:white; box-shadow: rgba(0, 0, 0, 0.2) 0px 3px 1px -2px, rgba(0, 0, 0, 0.14) 0px 2px 2px 0px, rgba(0, 0, 0, 0.12) 0px 1px 5px 0px; padding: 6px 16px;border-radius:4px ; text-decoration: none;"><a href="https://mlip-cmu.github.io/book/" style="color:white">The Book</a></span>
 
 Find resources related to teaching and research on how to build, deploy, assure, and maintain **software products with machine-learned models**. For example, how to integrate a voice-to-text model and an LLM into a video conferencing product to create automated meeting summaries. We cover the entire lifecycle from a prototype ML model to an entire product deployed in the real world, not just models or notebooks. Covers also the **responsible ML engineering** of such systems (safety, security, fairness, transparency) and **MLOps**. 
 
@@ -26,8 +27,7 @@ A book has been published MIT Press as open access. All author proceeds are dona
 
 ## The Course
 
-
-<span style="font-weight:bold; background-color:rgb(46, 125, 50);    transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms, box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms, border-color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms, color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms; color:white; box-shadow: rgba(0, 0, 0, 0.2) 0px 3px 1px -2px, rgba(0, 0, 0, 0.14) 0px 2px 2px 0px, rgba(0, 0, 0, 0.12) 0px 1px 5px 0px; padding: 6px 16px;border-radius:4px ; text-decoration: none;"><a href="https://mlip-cmu.github.io/s2025/" style="color:white">Spring 2025 website</a></span>
+<span style="font-weight:bold; background-color:rgb(46, 125, 50);    transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms, box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms, border-color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms, color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms; color:white; box-shadow: rgba(0, 0, 0, 0.2) 0px 3px 1px -2px, rgba(0, 0, 0, 0.14) 0px 2px 2px 0px, rgba(0, 0, 0, 0.12) 0px 1px 5px 0px; padding: 6px 16px;border-radius:4px ; text-decoration: none;"><a href="https://mlip-cmu.github.io/s2026/" style="color:white">Spring 2026 website</a></span>
 
 We teach a 12-unit course at Carnegie Mellon University on this topic, open to undergraduates and graduate students. We expect some minimal machine learning background and some programming skills, but no prior software engineering research. The course is always offered in the spring semester and often also in the fall.
 
